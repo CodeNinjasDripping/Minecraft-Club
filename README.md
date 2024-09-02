@@ -27,15 +27,12 @@ Welcome to the Minecraft World Installation Guide! Follow these super simple ste
 2. Press **Enter**.
 3. In the Run dialog box, type **“%appdata%”** and press **Enter**.
 
-   ![Run Appdata](https://user-images.githubusercontent.com/108450242/185257106-cb8dd70d-6b32-4d8e-bc63-21d4c1b3f68e.png)
-
 4. A window will open. Look for the **“.minecraft”** folder and open it.
 5. Inside **“.minecraft”**, locate and open the **“saves”** folder.
 
 ### **For Mac Users:**
 1. Follow the instructions in [this video](https://www.youtube.com/watch?v=-oQ1VdUwAeA) starting at the 2-minute mark.
 
-   ![Mac Finder](https://user-images.githubusercontent.com/33564119/92601283-0f7ad800-f287-11ea-8ad8-8cbf7a68fc4e.png)
 
 ---
 
@@ -43,8 +40,6 @@ Welcome to the Minecraft World Installation Guide! Follow these super simple ste
 
 1. Open the **ZIP file** you downloaded.
 2. Inside the ZIP, **navigate to the student’s folder** containing the world you want to upload.
-
-   ![Folder Navigation](https://user-images.githubusercontent.com/108450242/185257319-319ab348-914b-46f1-89c6-2a6165423054.png)
 
 3. **Be careful not to click too far.** If you see individual world files like `level.dat`, go back one directory.
 4. Once you see the folder named after the world you want, either **copy** or **drag** it into the **“saves”** folder you opened earlier.
