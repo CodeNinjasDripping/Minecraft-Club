@@ -1,6 +1,3 @@
-Here's a more visually appealing version of your README with color coordination and a graphical approach:
-
----
 
 # 🎮 **Minecraft World Installation Guide** 🗺️
 
@@ -60,8 +57,4 @@ Welcome to the Minecraft World Installation Guide! Follow these super simple ste
 
 ## ❓ **Troubleshooting**
 
-If you run into any issues, feel free to re-watch the instructional video or consult the troubleshooting guide in the repository. 
-
----
-
-This README should give users everything they need to successfully install and start playing their Minecraft worlds with a visually pleasing layout. Let me know if you want any further enhancements!
+If you run into any issues, feel free to re-watch the instructional video or consult the troubleshooting guide in the repository, or reach out to us at Code Ninjas Dripping Springs.
