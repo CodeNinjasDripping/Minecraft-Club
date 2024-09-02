@@ -1,6 +1,6 @@
-<p align="center">
-# 🎮 **Minecraft World Installation Guide** 🗺️
-</p>
+
+<p align="center"> <h1>🎮 <strong>Minecraft World Installation Guide</strong> 🗺️</h1> </p>
+
 
 <p align="center">
   <a href="https://youtu.be/AWMMbPadJZo?si=1n3djm5O9jEm5Y5P">
