@@ -9,7 +9,7 @@ Welcome to the Minecraft World Installation Guide! Follow these super simple ste
 
 ---
 
-## 🟢 **Step 1: Download the World Files**
+## 🟢 **Step 1: Download the World Files** (Click video image above if you need further assistance)
 
 1. **Navigate to the GitHub repository page**.
 2. **Click on the green button** labeled **“Code”**.
