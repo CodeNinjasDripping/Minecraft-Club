@@ -22,11 +22,7 @@ Welcome to the Minecraft World Installation Guide! Follow these super simple ste
 1. **Navigate to the GitHub repository page**.
 2. **Click on the green button** labeled **“Code”**.
 
-   ![Code Button](https://user-images.githubusercontent.com/30524949/42738509-bb48a0d2-884e-11e8-91c2-9d2fcb8d0d5d.png)
-
 3. In the dropdown menu, **select “Download ZIP”** at the bottom.
-
-   ![Download ZIP](https://user-images.githubusercontent.com/30524949/42738531-057b92a6-884f-11e8-9a7d-f8ed260fefbb.png)
 
 4. The download will start automatically, and you’ll get a ZIP file containing all students' worlds, including the Sensei’s demo world.
 
