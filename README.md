@@ -1,6 +1,7 @@
 <p align="center">
-  <strong><span style="font-size:2em">🎮 Minecraft World Installation Guide 🗺️</span></strong>
+  <strong><span style="font-size:2.5em">🎮 Minecraft World Installation Guide 🗺️</span></strong>
 </p>
+
 <p align="center"> <a href="https://youtu.be/AWMMbPadJZo?si=1n3djm5O9jEm5Y5P"> <img src="https://img.youtube.com/vi/AWMMbPadJZo/0.jpg" alt="Watch the video on YouTube" width="600"> </a> <br> <i>Click the image above to watch the installation guide on YouTube</i> </p>
 ---
 
