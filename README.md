@@ -1,9 +1,13 @@
 
 # 🎮 **Minecraft World Installation Guide** 🗺️
 
-<center>
-<a href="https://youtu.be/AWMMbPadJZo?si=1n3djm5O9jEm5Y5P"><img src="https://img.youtube.com/vi/AWMMbPadJZo/0.jpg" alt="Watch the video" width="600"></a>
-</center>
+<p align="center">
+  <a href="https://youtu.be/AWMMbPadJZo?si=1n3djm5O9jEm5Y5P">
+    <img src="https://img.youtube.com/vi/AWMMbPadJZo/0.jpg" alt="Watch the video on YouTube" width="600">
+  </a>
+  <br>
+  <i>Click the image above to watch the installation guide on YouTube</i>
+</p>
 
 ---
 
@@ -16,7 +20,8 @@ Welcome to the Minecraft World Installation Guide! Follow these super simple ste
 ## 🟢 **Step 1: Download the World Files**
 
 1. **Navigate to the GitHub repository page**.
-2. **Click on the green button** labeled **“Code”** ![Code Button](https://user-images.githubusercontent.com/30524949/42738509-bb48a0d2-884e-11e8-91c2-9d2fcb8d0d5d.png).
+2. **Click on the green button** labeled **“Code”**.  
+   ![Code Button](https://user-images.githubusercontent.com/30524949/42738509-bb48a0d2-884e-11e8-91c2-9d2fcb8d0d5d.png)
 3. In the dropdown menu, **select “Download ZIP”** at the bottom.  
    ![Download ZIP](https://user-images.githubusercontent.com/30524949/42738531-057b92a6-884f-11e8-9a7d-f8ed260fefbb.png)
 4. The download will start automatically, and you’ll get a ZIP file containing all students' worlds, including the Sensei’s demo world.
@@ -42,7 +47,7 @@ Welcome to the Minecraft World Installation Guide! Follow these super simple ste
 ## 💾 **Step 3: Install the World**
 
 1. Open the **ZIP file** you downloaded.
-2. Inside the ZIP, **navigate to the student’s folder** containing the world you want to upload.
+2. Inside the ZIP, **navigate to the student’s folder** containing the world you want to upload.  
    ![Folder Navigation](https://user-images.githubusercontent.com/108450242/185257319-319ab348-914b-46f1-89c6-2a6165423054.png)
 3. **Be careful not to click too far.** If you see individual world files like `level.dat`, go back one directory.
 4. Once you see the folder named after the world you want, either **copy** or **drag** it into the **“saves”** folder you opened earlier.
@@ -58,3 +63,4 @@ Welcome to the Minecraft World Installation Guide! Follow these super simple ste
 ## ❓ **Troubleshooting**
 
 If you run into any issues, feel free to re-watch the instructional video or consult the troubleshooting guide in the repository, or reach out to us at Code Ninjas Dripping Springs.
+
